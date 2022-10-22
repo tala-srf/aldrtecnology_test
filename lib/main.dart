@@ -52,6 +52,10 @@ class MyApp extends StatelessWidget {
 
         debugShowCheckedModeBanner: false,
         locale: const Locale('ar'),
+         routes: {
+        
+           "/data": (cxtc) => DataUI(),
+        },
       home:  FutureBuilder(
         builder: (context, snapshot) {
           if (snapshot.hasData) {

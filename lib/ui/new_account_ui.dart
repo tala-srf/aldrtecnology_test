@@ -306,8 +306,8 @@ class _NewAccountState extends State<NewAccount> {
 
                         sharedPreferences.setString(
                             'backend_token', generateRandomString(18));
-                        Navigator.of(context).push(
-                            MaterialPageRoute(builder: (context) => DataUI()));
+                        Navigator.of(context).popAndPushNamed(
+                         "/data");
                       },
                       child: Row(
                         mainAxisAlignment: MainAxisAlignment.center,
