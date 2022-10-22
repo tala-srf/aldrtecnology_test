@@ -1,4 +1,4 @@
-import 'package:flutter_application_1/model/data_model.dart';
+import 'package:test_/model/data_model.dart';
 
 class DataService {
   DataModel? proudect = DataModel(data: [

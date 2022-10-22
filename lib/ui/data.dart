@@ -1,8 +1,8 @@
 // ignore_for_file: sort_child_properties_last
 
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/service/data_service.dart';
-import 'package:flutter_application_1/ui/new_account_ui.dart';
+import 'package:test_/service/data_service.dart';
+import 'package:test_/ui/new_account_ui.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class DataUI extends StatefulWidget {

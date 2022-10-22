@@ -4,8 +4,8 @@ import 'dart:math';
 
 import 'package:auto_orientation/auto_orientation.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/ui/condition%20_ui.dart';
-import 'package:flutter_application_1/ui/data.dart';
+import 'package:test_/ui/condition%20_ui.dart';
+import 'package:test_/ui/data.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class NewAccount extends StatefulWidget {

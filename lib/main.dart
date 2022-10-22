@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/ui/data.dart';
-import 'package:flutter_application_1/ui/new_account_ui.dart';
+import 'package:test_/ui/data.dart';
+import 'package:test_/ui/new_account_ui.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

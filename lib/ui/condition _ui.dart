@@ -1,8 +1,8 @@
 // ignore: file_names
 
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/model/condition_model.dart';
-import 'package:flutter_application_1/service/condition.dart';
+import 'package:test_/model/condition_model.dart';
+import 'package:test_/service/condition.dart';
 
 class ConditonUI extends StatefulWidget {
   const ConditonUI({Key? key}) : super(key: key);
